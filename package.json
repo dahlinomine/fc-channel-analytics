@@ -1,0 +1,14 @@
+{
+  "name": "fc-channel-analytics",
+  "version": "0.1.0",
+  "description": "Deep insights and metrics for Farcaster Channel owners",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
